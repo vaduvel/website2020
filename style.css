@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,600;1,700&display=swap');
+
+body
+{
+    font-family: 'Cabin';
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    background: rgb(34, 56, 151);
+}
+
+section 
+{
+    background: rgb(34, 56, 151);
+    width: 100%;
+    height: 100vh;
+    
+    
+}
+
+.home
+{
+    padding-left: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+.home h1
+{
+    margin-left: 50px;
+    font-size: 3em;
+    color: rgb(180, 175, 175);
+}
+.home img
+{
+    border-radius: 12px;
+}
+
+ h3
+{
+    margin: 50px;
+    color: rgb(145, 144, 144);
+}
+
+header li a
+{
+    color: rgb(255, 255, 255);
+}
+
+
+p,h4
+{
+   padding-left: 50px;
+}
+
+h2,
+h3
+{
+    color: #ffff;
+    
+    text-align: center;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 3em;
+}
+
+.education
+{
+    padding-left: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center; 
+}
+
+li
+{
+    font-size: 1.1em;
+    margin-top: 8px;
+    padding: 2px;
+}
